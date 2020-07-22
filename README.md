@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi Guys 👋
+[![HitCount](http://hits.dwyl.com/Larzz/Larzz.svg)](http://hits.dwyl.com/Larzz/Larzz)
 
 <!--
 **Larzz/Larzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
