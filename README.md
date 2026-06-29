@@ -144,7 +144,7 @@ Features:
 
 # 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME
+https://github-profile-trophy.vercel.app/?username=larzz
 
 ---
 
@@ -156,11 +156,12 @@ https://larryparba.com
 
 💼 LinkedIn
 
-https://linkedin.com/in/YOUR_LINKEDIN
+[https://linkedin.com/in/YOUR_LINKEDIN
+](https://www.linkedin.com/in/larry-parba-52509699/)
 
 📧 Email
 
-your@email.com
+larry.parba@outlook.com
 
 ---
 
@@ -170,4 +171,4 @@ your@email.com
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=larzz&color=blue)
